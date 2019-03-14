@@ -5,6 +5,7 @@ Files found within focus on creating the data structures "from scratch" - that i
 The following Structures are implemented: Lists, Trees, Queues, Stacks, etc.
 
 **Stacks**
+
 Stacks are implemented using an Array of fixed size, following the First-In, Last-Out (FILO) implementation native to a stack.
 The implemented methods include:
 - Push: adds an Object element to the top of the stack
